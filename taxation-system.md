@@ -4,7 +4,7 @@
 
 I built a configurable tax compliance engine that automates TDS (Tax Deducted at Source) deductions across 50,000+ partners and 1 million+ monthly transactions. The system improved tax recovery from 75% to 99%, saving ₹2.4 Cr annually while eliminating 3-4 days of month-end manual reconciliation and reducing tax-related grievances by 87%.
 
-**Timeline:** 2023
+**Timeline:** December 2023 - July 2024
 **Role:** Product Manager
 **Team:** Cross-functional team including Engineering, Finance, Legal/Compliance, and Operations
 

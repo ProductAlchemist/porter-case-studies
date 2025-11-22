@@ -4,7 +4,7 @@
 
 I owned the end-to-end lending experience for Porter's driver-partners, building a platform that scaled from 400 to 4,000 loans per month while disbursing over ₹100 Cr. The platform improved repayment rates from 73% to 90% (at 7 DPD) and reduced customer acquisition costs by 40%—from ₹625 to ₹375 per loan.
 
-**Timeline:** April 2022 - Present (Ongoing)
+**Timeline:** April 2022 - December 2023
 **Role:** Product Manager
 **Team:** Cross-functional team including Engineering, Design, Business, Data Science, and Credit/Risk
 

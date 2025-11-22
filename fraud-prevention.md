@@ -4,9 +4,11 @@
 
 I built Porter's supply acquisition and trust infrastructure, creating a dual system that accelerated growth while protecting platform integrity. I launched a digital marketing channel contributing 20% of new partners and 10% of activations, established OEM partnerships delivering 5% of acquisitions, and built fraud prevention systems that blocked ₹50L+ in losses while improving vehicle compliance from 50% to 78%.
 
-**Timeline:** 2023-2024
+**Timeline:** October 2023 - February 2024
 **Role:** Product Manager
 **Team:** Cross-functional team including Engineering, Design, Data Science, Risk/Compliance, and Growth
+
+**Note:** This was part of a larger supply acquisition initiative with multiple discovery phases. Due to changing organizational priorities, some planned features (advanced ML-based fraud scoring, expanded OEM partnerships) were deprioritized mid-stream. This case study reflects the reality of product work—delivering measurable impact within shifting constraints while building foundations for future expansion.
 
 ---
 
