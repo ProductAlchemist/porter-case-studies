@@ -1,10 +1,16 @@
 # Porter Product Case Studies
 
-A collection of product case studies documenting my work building 0→1 platforms at Porter.
+Hey! I'm Kshitij, a Product Manager who believes the best way to showcase product work is through detailed case studies with real metrics and honest learnings.
 
-## Overview
+These aren't sanitized success stories - they're real products with real constraints, trade-offs, and lessons learned.
 
-This repository showcases detailed case studies of platform products I've built, focusing on problem-solving approach, solution architecture, measurable impact, and key learnings.
+**What you'll find:**
+- Actual metrics and business impact
+- Technical architecture and platform design decisions
+- What worked and what didn't
+- Honest reflections on constraints and trade-offs
+
+---
 
 ## Case Studies
 
