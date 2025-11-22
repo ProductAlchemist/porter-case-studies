@@ -24,13 +24,21 @@ Designed tax compliance system handling complex regulatory requirements and ente
 - Automated compliance for enterprise customers
 - Reduced manual processing time significantly
 
-### 3. [Fraud Prevention System](./fraud-prevention.md)
-Developed behavioral design-based fraud detection and prevention system protecting platform integrity.
+### 3. [Partner Acquisition & Growth](./partner-acquisition.md)
+Launched multi-channel acquisition strategy with digital marketing and OEM partnerships.
 
 **Key Metrics:**
-- Reduced fraud incidents while maintaining user experience
-- Protected transactions across the platform
-- Behavioral nudges preventing fraudulent behavior
+- 20% of supply via digital channels, 5% via OEM partnerships
+- Improved conversion rates 40% → 52% through optimization
+- Diversified acquisition beyond field sales
+
+### 4. [Discovery & Opportunity Sizing](./acquisition-opportunity-sizing.md)
+Strategic discovery work that informed product priorities through market analysis and partner segmentation.
+
+**Key Metrics:**
+- Identified ₹8.5 Cr TAM opportunity in B2B acquisition
+- Data-driven market analysis and partner segmentation
+- Informed product roadmap and investment priorities
 
 ## About These Case Studies
 
