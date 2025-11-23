@@ -38,6 +38,15 @@ Launched multi-channel acquisition strategy with digital marketing and OEM partn
 - Improved conversion rates 40% → 52% through optimization
 - Diversified acquisition beyond field sales
 
+### 4. [Discovery & Opportunity Sizing](./acquisition-opportunity-sizing.md)
+Strategic discovery work analyzing partner onboarding challenges and quantifying opportunities.
+
+**Key Outcomes:**
+- Identified ₹8.5 Cr TAM in B2B acquisition channels
+- Created P0/P1/P2/P3 prioritization framework across 20+ opportunities
+- 5 features shipped from broader discovery (digital attribution, OEM partnerships, fraud controls)
+- Honest acknowledgment: Most recommendations deprioritized due to org priority shifts
+
 ## About These Case Studies
 
 Each case study follows a structured format:
