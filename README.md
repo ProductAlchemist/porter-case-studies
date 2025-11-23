@@ -38,14 +38,6 @@ Launched multi-channel acquisition strategy with digital marketing and OEM partn
 - Improved conversion rates 40% → 52% through optimization
 - Diversified acquisition beyond field sales
 
-### 4. [Discovery & Opportunity Sizing](./acquisition-opportunity-sizing.md)
-Strategic discovery work that informed product priorities through market analysis and partner segmentation.
-
-**Key Metrics:**
-- Identified ₹8.5 Cr TAM opportunity in B2B acquisition
-- Data-driven market analysis and partner segmentation
-- Informed product roadmap and investment priorities
-
 ## About These Case Studies
 
 Each case study follows a structured format:

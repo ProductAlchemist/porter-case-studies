@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nReframe case study as partner acquisition & growth initiative\n\nRenamed fraud-prevention.md to partner-acquisition.md and completely reframed the content to reflect the project''s true focus:\n- Primary: Digital marketing acquisition (20% of partners), OEM partnerships (5%), conversion optimization (40%→52% CTR)\n- Secondary: Basic fraud prevention as table stakes (blocking repeat offenders with same documents)\n\nThe project was fundamentally a GROWTH initiative with necessary fraud controls, not a fraud-focused project. Updated title, problem framing, solution architecture, and impact metrics to show growth as the main story.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
