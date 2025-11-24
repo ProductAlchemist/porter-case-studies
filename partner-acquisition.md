@@ -1,16 +1,5 @@
 # Partner Acquisition & Growth
 
-## Overview
-
-I built Porter's partner acquisition and growth engine, launching digital marketing channels and OEM partnerships that diversified supply beyond field sales. I established a digital acquisition channel contributing 20% of new partners and 10% of activations, built OEM partnerships delivering 5% of acquisitions, improved conversion rates from 40% to 52%, and implemented basic fraud controls (blocking repeat offenders) as table stakes.
-
-**Timeline:** October 2023 - February 2024
-**Role:** Product Manager
-**Team:** Cross-functional team including Engineering, Design, Data Science, Growth, and Risk/Compliance
-
-**Note:** This case study documents features that were actually implemented and shipped. Due to changing organizational priorities, some planned enhancements (advanced fraud scoring, additional acquisition channels) were deprioritized. This reflects the reality of product work—delivering measurable impact within constraints.
-
----
 
 ## 📋 Problem
 
@@ -25,7 +14,7 @@ Porter faced a critical growth challenge: **scale partner supply to meet seasona
 - **OEM Opportunity Untapped:** Vehicle manufacturers wanted to help drivers start businesses, but no B2B pipeline existed
 - **Conversion Leaks:** Poor onboarding experience with 40% CTR on key actions
 
-**Secondary: Basic Trust & Compliance (Table Stakes):**
+**Secondary: Basic Trust & Compliance (Basic Controls):**
 - **Repeat Offenders:** Blocked partners rejoining with new documents—no systematic way to catch them
 - **Low Vehicle Compliance:** Only 50% of partners had valid, verified vehicle documents (RC verification)
 - **Fraud Costs:** Material losses from fraudulent activities, needed basic controls
@@ -35,7 +24,7 @@ Porter faced a critical growth challenge: **scale partner supply to meet seasona
 
 ### Growth Gaps Identified
 
-Through market analysis and data review, I identified critical growth opportunities:
+Through market analysis and data review, Identified critical growth opportunities:
 
 **1. Digital Marketing Channel (Untapped)**
 - **Opportunity:** Porter had zero digital partner acquisition infrastructure
@@ -74,7 +63,7 @@ I envisioned a **diversified partner acquisition engine** where:
 
 ### What I Actually Built
 
-I implemented six core features that were shipped to production:
+We implemented six core features that were shipped to production:
 
 **GROWTH INFRASTRUCTURE:**
 
@@ -263,7 +252,7 @@ I implemented six core features that were shipped to production:
 - **Cross-functional collaboration:** Growth, engineering, design, risk working together
 - **B2B sales capability:** Showed Porter could do enterprise partnerships, not just B2C
 
-**Basic Trust (Table Stakes):**
+**Basic Trust (Basic Controls):**
 - Simple fraud controls prevented obvious repeat offenders
 - RC verification improved compliance without over-engineering
 - Good enough for current scale, foundation for future sophistication
@@ -343,7 +332,7 @@ I implemented six core features that were shipped to production:
 
 - **B2B Partnerships Beat Pure B2C:** OEM partnerships provided sustainable, high-quality supply at lower CAC. B2B2C model scales better than pure consumer acquisition.
 
-- **Basic Fraud Controls Are Table Stakes:** Simple blacklist and verification caught 90% of fraud. Don't over-engineer—ship basics fast, add sophistication later.
+- **Basic Fraud Controls Are Basic Controls:** Simple blacklist and verification caught 90% of fraud. Don't over-engineer—ship basics fast, add sophistication later.
 
 - **Conversion Improvements Compound:** Small friction reductions (better banners, faster lead assignment) add up across the funnel to significant lift.
 
@@ -360,39 +349,12 @@ I implemented six core features that were shipped to production:
 
 ---
 
-## 🔮 Future Roadmap
-
-**Planned Growth Enhancements:**
-
-**Channel Expansion:**
-- **Referral Program:** Partner-to-partner referrals with incentives (lower CAC than paid ads)
-- **Regional Language Campaigns:** Expand reach to underserved segments
-- **Dealer Network Scaling:** Expand OEM partnerships
-- **Community Partnerships:** Local community engagement for acquisition
-
-**Conversion Optimization:**
-- **Smart Lead Routing:** Assign partners to best-fit onboarding agents based on language, location
-- **Document Optimization:** Further streamline verification process
-- **Progress Tracking:** Enhanced visibility for partners during onboarding
-- **A/B Testing Expansion:** More systematic testing framework
-
-**Advanced Attribution:**
-- **Multi-Touch Attribution:** Credit all touchpoints in partner journey
-- **Cohort LTV Analysis:** Track long-term partner value by acquisition channel
-- **Predictive Models:** Forecast optimal spend allocation across channels
-
-**Basic Fraud Evolution (If Needed):**
-- **Behavioral Signals:** Add simple checks for suspicious patterns (only if fraud increases)
-- **Network Detection:** Flag suspicious activity clusters
-- Would only invest in advanced capabilities if fraud becomes material problem—not a priority now
 
 ---
 
-## 🔗 Related Work
+---
 
-- [Lending Platform Case Study](./lending-platform.md) - Another growth initiative with trust as necessary foundation
-- [Taxation Infrastructure Case Study](./taxation-system.md) - Platform thinking and automation
-
+← [Back to Porter Case Studies](../README.md)
 ---
 
 *This case study demonstrates how to build multi-channel partner acquisition, establish B2B partnerships, optimize conversion funnels, and implement basic fraud controls as table stakes—with growth as the primary story.*

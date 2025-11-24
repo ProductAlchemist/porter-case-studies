@@ -1,14 +1,5 @@
 # Taxation Infrastructure
 
-## Overview
-
-I built a configurable tax compliance engine that automates TDS (Tax Deducted at Source) deductions across 50,000+ partners and 1 million+ monthly transactions. The system improved tax recovery from 75% to 99%, saving ₹2.4 Cr annually while eliminating 3-4 days of month-end manual reconciliation and reducing tax-related grievances by 87%.
-
-**Timeline:** December 2023 - July 2024
-**Role:** Product Manager
-**Team:** Cross-functional team including Engineering, Finance, Legal/Compliance, and Operations
-
----
 
 ## 📋 Problem
 
@@ -449,30 +440,12 @@ Rolled out systematically with partner education and support training.
 
 ---
 
-## 🔮 Future Roadmap
-
-**Planned Enhancements:**
-- **TCS (Tax Collected at Source) Implementation:** Platform is ready—just needs rule configs. Launching Q2 2024
-- **Self-Serve Tax Certificates:** Auto-generate downloadable certificates (Form 16A equivalent) for partners
-- **Predictive Tax Planning:** Show partners projected tax deductions based on earning trends to help with financial planning
-
-**New Tax Types & Compliance:**
-- **GST Automation:** Extend rule engine to handle GST collection and filing for enterprise customers
-- **State-Level Taxes:** Handle emerging state-specific taxes (e.g., professional tax) via same platform
-- **International Expansion:** Make system geography-agnostic to support Porter's expansion plans
-
-**Advanced Analytics:**
-- **Tax Optimization Recommendations:** Suggest cohort structure changes to partners to minimize tax burden legally (e.g., "Link your Aadhaar to reduce TDS rate")
-- **Anomaly Detection:** ML-based alerts for unusual tax patterns (potential misclassification or fraud)
-- **Benchmarking:** Show partners how their tax burden compares to similar cohorts
 
 ---
 
-## 🔗 Related Work
+---
 
-- [Lending Platform Case Study](./lending-platform.md) - Shows how behavioral design drives outcomes
-- [Fraud Prevention System Case Study](./fraud-prevention.md) - Another example of rule-based platform thinking
-
+← [Back to Porter Case Studies](../README.md)
 ---
 
 *This case study demonstrates platform thinking, systems design, and turning complex regulatory requirements into competitive advantages through automation and transparency.*

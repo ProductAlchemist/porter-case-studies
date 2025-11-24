@@ -1,14 +1,5 @@
 # Lending Platform (0→1)
 
-## Overview
-
-I owned the end-to-end lending experience for Porter's driver-partners, building a platform that scaled from 400 to 4,000 loans per month while disbursing over ₹100 Cr. The platform improved repayment rates from 73% to 90% (at 7 DPD) and reduced customer acquisition costs by 40%—from ₹625 to ₹375 per loan.
-
-**Timeline:** April 2022 - December 2023
-**Role:** Product Manager
-**Team:** Cross-functional team including Engineering, Design, Business, Data Science, and Credit/Risk
-
----
 
 ## 📋 Problem
 
@@ -38,7 +29,7 @@ Our driver-partners faced severe credit access challenges:
 
 I had to navigate significant constraints:
 
-- **Technical Debt:** No LMS existed; building from scratch while migrating 15K legacy loans without disrupting operations
+- **Technical Debt:** No LMS existed; Vetted and integrated a third-party Loan Management System 15K legacy loans without disrupting operations
 - **Regulatory Compliance:** CKYC requirements, credit bureau reporting (CIBIL), RBI lending guidelines
 - **Risk Management:** Balancing growth with portfolio health in an unsecured lending environment
 - **Resource Constraints:** Limited engineering bandwidth meant prioritizing ruthlessly
@@ -50,7 +41,7 @@ I had to navigate significant constraints:
 
 ### Product Vision
 
-My vision was to build a **behavioral lending platform** that used platform access as both an incentive and enforcement mechanism. Instead of traditional credit scoring alone, I wanted to create a system where:
+The vision was to build a **behavioral lending platform** that used platform access as both an incentive and enforcement mechanism. Instead of traditional credit scoring alone, The goal was to create a system where:
 
 1. **Access drives discipline:** Platform access tied to repayment behavior
 2. **Friction breeds trust:** Simple, transparent processes build confidence
@@ -62,7 +53,7 @@ The core value proposition: **Fast, fair credit that rewards good behavior and o
 
 **1. Loan Management System (LMS) with Legacy Migration**
 
-I led the migration of 15,000 legacy loans from Excel to a proper LMS while building new origination flows.
+Led the migration of 15,000 legacy loans from Excel to a proper LMS while building new origination flows.
 
 - **The Challenge:** We couldn't stop lending during migration, and missing repayment data created credit bureau risk
 - **The Solution:** Built a dual-track system that onboarded new loans in LMS while backfilling legacy data over 2 months
@@ -86,7 +77,7 @@ This was my most impactful innovation—tying platform access directly to repaym
 
 **4. Flexible Payment Option (FPO) - Recovery Innovation**
 
-For suspended partners who couldn't pay full dues immediately, I designed a "pay to unlock" model.
+For suspended partners who couldn't pay full dues immediately, We designed a "pay to unlock" model.
 
 - **What it does:** Partners can unlock 7-day platform access by paying ₹500, creating a repeatable recovery loop
 - **Why it matters:** Used by 2,200+ partners (35% of defaulted NPAs), recovering ₹2 Cr+ incrementally
@@ -116,28 +107,6 @@ I replaced high-touch sales with a self-serve funnel featuring educational video
 **Automation Philosophy:**
 I automated high-volume, low-risk decisions (eligibility, disbursement, suspension) while keeping human review for edge cases and appeals. This balance maintained quality while achieving scale.
 
-### Go-to-Market Strategy
-
-**Phase 1: Stabilize (Months 1-3)**
-- Migrated legacy loans to LMS
-- Fixed credit bureau reporting to eliminate compliance risk
-- Established baseline metrics
-
-**Phase 2: Optimize Conversion (Months 4-6)**
-- Launched CKYC integration to reduce TAT
-- Built self-serve landing page to reduce CAC
-- Scaled from 400 to 1,000 loans/month
-
-**Phase 3: Drive Discipline (Months 7-12)**
-- Launched automated suspension engine
-- Repayment rate jumped from 73% to 85%
-- Introduced FPO for recovery
-
-**Phase 4: Scale (Months 13-24)**
-- Repayment rate reached 90%, proving model sustainability
-- Scaled to 4,000 loans/month (10x from baseline)
-- Reduced sales team as self-serve took over
-- ₹100 Cr+ total disbursed
 
 ---
 
@@ -265,30 +234,12 @@ I automated high-volume, low-risk decisions (eligibility, disbursement, suspensi
 
 ---
 
-## 🔮 Future Roadmap
-
-**Planned Enhancements:**
-- **Dynamic Credit Limits:** Increase limits automatically for partners with perfect repayment history
-- **Income-Linked Repayment:** Tie payment schedules to actual earnings, reducing defaults during slow weeks
-- **Insurance Integration:** Bundle micro-insurance (vehicle, health) with loans to reduce partner risk
-
-**New Use Cases:**
-- **Vehicle Purchase Financing:** Larger loans (₹50K-2L) for partners buying their own vehicles
-- **Fleet Owner Loans:** B2B lending for fleet operators managing multiple drivers
-- **Emergency Credit:** Instant ₹2-5K micro-loans for urgent needs (medical, repairs)
-
-**Scale Targets:**
-- 10,000 loans/month within next 12 months
-- ₹500 Cr total disbursed within 24 months
-- Sub-₹300 CAC through continued self-serve optimization
 
 ---
 
-## 🔗 Related Work
+---
 
-- [Taxation Infrastructure Case Study](./taxation-system.md)
-- [Fraud Prevention System Case Study](./fraud-prevention.md)
-
+← [Back to Porter Case Studies](../README.md)
 ---
 
 *This case study demonstrates 0→1 fintech product development, behavioral design thinking, and scaling a lending platform 10x while improving unit economics and portfolio health.*

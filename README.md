@@ -4,9 +4,10 @@ Hey! I'm Kshitij, a Product Manager who believes the best way to showcase produc
 
 These aren't sanitized success stories - they're real products with real constraints, trade-offs, and lessons learned.
 
+**Connect:** [LinkedIn](https://www.linkedin.com/in/kshitijkulkarni-productmanager/) • [GitHub](https://github.com/ProductAlchemist) • [kshitijkulkarni95@gmail.com](mailto:kshitijkulkarni95@gmail.com)
+
 **What you'll find:**
 - Actual metrics and business impact
-- Technical architecture and platform design decisions
 - What worked and what didn't
 - Honest reflections on constraints and trade-offs
 
@@ -56,14 +57,3 @@ Each case study follows a structured format:
 - **Impact**: Quantifiable business outcomes and metrics
 - **Learnings**: Key insights and takeaways from the product journey
 
-## About Me
-
-I'm **Kshitij Kulkarni**, a Product Manager at Porter specializing in 0→1 platform development. I focus on building fintech platforms and behavioral design systems that drive measurable business impact.
-
-**Connect with me:**
-- GitHub: [@ProductAlchemist](https://github.com/ProductAlchemist)
-- Email: kshitijkulkarni95@gmail.com
-
----
-
-*These case studies demonstrate strategic product thinking, technical depth, and impact-driven execution.*

@@ -1,17 +1,5 @@
 # Partner Acquisition - Discovery & Opportunity Sizing
 
-## Overview
-
-I led a comprehensive discovery initiative analyzing partner onboarding challenges at Porter, identifying a ₹8.5 Cr TAM opportunity in B2B acquisition channels and creating a strategic prioritization framework across 20+ improvement areas. This discovery work spanned multiple months and informed product priorities, though organizational shifts meant only 5 of the 20+ recommended features were implemented.
-
-**Timeline:** Q2-Q3 2024 (Discovery phase)
-**Role:** Product Manager
-**Team:** Cross-functional team including Engineering, Operations, Data Science, and Business
-**Status:** Discovery completed, limited implementation due to organizational priority changes
-
-**Note:** This case study documents strategic discovery and opportunity sizing work, not feature execution. It demonstrates analytical rigor, stakeholder alignment, and honest acknowledgment that strong business cases don't always translate to full implementation when organizational priorities shift.
-
----
 
 ## 📋 Context
 
@@ -40,7 +28,7 @@ The business was scaling, but the onboarding infrastructure wasn't keeping pace.
 
 ### The 7 Major Challenges Identified
 
-Through stakeholder interviews, data analysis, and user research, I identified seven critical challenge areas:
+Through stakeholder interviews, data analysis, and user research, Identified seven critical challenge areas:
 
 **1. Fleet Management Gaps**
 - **The Problem:** Driver-vehicle entities tightly coupled in the system
@@ -128,7 +116,7 @@ I quantified the addressable opportunity across multiple dimensions:
 
 ### Prioritization Framework
 
-I created a P0/P1/P2/P3 framework to prioritize 20+ identified opportunities:
+We created a P0/P1/P2/P3 framework to prioritize 20+ identified opportunities:
 
 **Criteria:**
 1. **Business Impact:** Revenue opportunity, cost avoidance, strategic value
@@ -168,7 +156,7 @@ I created a P0/P1/P2/P3 framework to prioritize 20+ identified opportunities:
 
 ### 20+ Opportunities Identified & Prioritized
 
-Based on the analysis, I created a comprehensive roadmap across seven workstreams:
+Based on the analysis, We created a comprehensive roadmap across seven workstreams:
 
 **1. Fleet Management Infrastructure (P0)**
 - Decouple driver and vehicle as separate entities in data model
@@ -285,32 +273,6 @@ Despite the comprehensive discovery and strong business case, organizational pri
 - Reduced manual assignment delays
 - **Outcome:** Partial TAT improvement, not full auto-assignment vision
 
-### What Remains as PRD (15+ Features Deprioritized)
-
-The majority of the discovery recommendations did not ship:
-
-**Not Implemented:**
-- ❌ Driver-vehicle decoupling (fleet management core)
-- ❌ International expansion app-based onboarding
-- ❌ Document quality overhaul
-- ❌ Supervisor persona support
-- ❌ Advanced fraud signals
-- ❌ Training flow optimization
-- ❌ RC verification integration (compliance)
-- ❌ Workflow automation beyond basic lead assignment
-- ❌ Multi-language support
-- ❌ Bulk onboarding for fleet vendors
-- ❌ Onboarding analytics dashboard
-- ❌ Partner communication automation
-- ❌ Referral tracking
-- ❌ Technical platform decoupling
-- ❌ A/B testing infrastructure (beyond basic banners)
-
-**Why Deprioritized:**
-- **Resource Constraints:** Engineering bandwidth allocated to other strategic initiatives
-- **Market Shifts:** Immediate growth priorities took precedence over infrastructure investment
-- **Leadership Changes:** New stakeholders with different strategic focus
-- **Scope Complexity:** Driver-vehicle decoupling required significant re-architecture
 
 ### Gap Between Vision & Execution
 
@@ -403,7 +365,7 @@ The majority of the discovery recommendations did not ship:
 ### What I'd Do Differently
 
 **Earlier Stakeholder Alignment on Scope:**
-- I built a comprehensive roadmap assuming resources would be available
+- We built a comprehensive roadmap assuming resources would be available
 - Should have pressure-tested org commitment to multi-quarter investment earlier
 - Could have scoped Phase 1 more defensively to ensure core value delivered
 
@@ -450,12 +412,9 @@ Discovery and opportunity sizing are valuable **even when**:
 
 ---
 
-## 🔗 Related Work
+---
 
-- [Partner Acquisition & Growth Case Study](./partner-acquisition.md) - The 5 features that actually shipped from this discovery
-- [Lending Platform Case Study](./lending-platform.md) - Another 0→1 product journey
-- [Taxation Infrastructure Case Study](./taxation-system.md) - Platform thinking and systems design
-
+← [Back to Porter Case Studies](../README.md)
 ---
 
 *This case study demonstrates strategic product discovery, opportunity sizing, and analytical rigor—while honestly acknowledging that product work rarely unfolds as planned. The value of discovery extends beyond immediate execution.*
