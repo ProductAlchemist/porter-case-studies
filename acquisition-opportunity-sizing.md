@@ -414,7 +414,6 @@ Discovery and opportunity sizing are valuable **even when**:
 
 ---
 
-← [Back to Porter Case Studies](../README.md)
+← [Back to Porter Case Studies](https://github.com/ProductAlchemist/porter-case-studies)
 ---
 
-*This case study demonstrates strategic product discovery, opportunity sizing, and analytical rigor—while honestly acknowledging that product work rarely unfolds as planned. The value of discovery extends beyond immediate execution.*

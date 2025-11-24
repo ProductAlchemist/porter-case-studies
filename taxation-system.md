@@ -445,7 +445,6 @@ Rolled out systematically with partner education and support training.
 
 ---
 
-← [Back to Porter Case Studies](../README.md)
+← [Back to Porter Case Studies](https://github.com/ProductAlchemist/porter-case-studies)
 ---
 
-*This case study demonstrates platform thinking, systems design, and turning complex regulatory requirements into competitive advantages through automation and transparency.*

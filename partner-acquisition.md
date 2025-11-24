@@ -354,7 +354,6 @@ We implemented six core features that were shipped to production:
 
 ---
 
-← [Back to Porter Case Studies](../README.md)
+← [Back to Porter Case Studies](https://github.com/ProductAlchemist/porter-case-studies)
 ---
 
-*This case study demonstrates how to build multi-channel partner acquisition, establish B2B partnerships, optimize conversion funnels, and implement basic fraud controls as table stakes—with growth as the primary story.*

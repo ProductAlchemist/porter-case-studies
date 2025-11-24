@@ -239,7 +239,6 @@ I automated high-volume, low-risk decisions (eligibility, disbursement, suspensi
 
 ---
 
-← [Back to Porter Case Studies](../README.md)
+← [Back to Porter Case Studies](https://github.com/ProductAlchemist/porter-case-studies)
 ---
 
-*This case study demonstrates 0→1 fintech product development, behavioral design thinking, and scaling a lending platform 10x while improving unit economics and portfolio health.*
