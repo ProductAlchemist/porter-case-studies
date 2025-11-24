@@ -11,6 +11,8 @@ These aren't sanitized success stories - they're real products with real constra
 - What worked and what didn't
 - Honest reflections on constraints and trade-offs
 
+Each case study follows: Problem → Solution → Impact → Learnings
+
 ---
 
 ## Case Studies
@@ -47,13 +49,3 @@ Strategic discovery work analyzing partner onboarding challenges and quantifying
 - Created P0/P1/P2/P3 prioritization framework across 20+ opportunities
 - 5 features shipped from broader discovery (digital attribution, OEM partnerships, fraud controls)
 - Honest acknowledgment: Most recommendations deprioritized due to org priority shifts
-
-## About These Case Studies
-
-Each case study follows a structured format:
-
-- **Problem**: The business challenge and user pain points
-- **Solution**: Product approach, key features, and architecture decisions
-- **Impact**: Quantifiable business outcomes and metrics
-- **Learnings**: Key insights and takeaways from the product journey
-
