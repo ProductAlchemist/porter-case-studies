@@ -237,65 +237,6 @@ Based on the analysis, We created a comprehensive roadmap across seven workstrea
 
 ## 🎓 Learnings
 
-### Value of Discovery Work
-
-**Why Discovery Mattered Even Though Plans Changed:**
-
-**1. Created Strategic Clarity**
-- Identified and quantified 7 major challenge areas
-- Built stakeholder consensus on problem space
-- Established objective prioritization framework
-- Enabled data-driven trade-off decisions when resources shifted
-
-**2. Informed Future Decisions**
-- Roadmap continues to guide 2025 planning
-- ₹8.5 Cr TAM opportunity still referenced in strategic discussions
-- P0 framework used to evaluate new feature requests
-- Discovery artifacts (data, analysis, business cases) reused by other teams
-
-**3. Delivered Partial Value**
-- 5 of 20+ features shipped still had significant impact
-- Even incomplete execution drove measurable business outcomes
-- Proved concepts (digital acquisition, OEM partnerships) that became repeatable playbooks
-- Small wins built foundation for future expansion
-
-**4. Taught Organizational Realities**
-- Strong business cases don't guarantee execution
-- Organizational priorities shift faster than roadmaps
-- Discovery work has value beyond immediate implementation
-- Iterative progress beats waiting for perfect conditions
-
-### Product Strategy Insights
-
-**What This Experience Taught Me:**
-
-**1. Prioritization is Everything**
-- Even with perfect discovery, you won't ship everything
-- P0/P1/P2/P3 framework helped salvage value when scope was cut
-- The 5 features that shipped were all P0/P1 items - prioritization worked
-
-**2. Solve for Constraints, Not Ideal State**
-- Driver-vehicle decoupling (P0) was technically hardest, so it didn't ship
-- Blacklist registry (P0) was technically easier, so it shipped despite being part of larger vision
-- Sometimes you ship "good enough" instead of "perfect" and that's okay
-
-**3. Quantify Everything**
-- ₹8.5 Cr TAM gave the work credibility
-- Fraud losses (₹1 Cr+) made blacklist registry defensible
-- 77% drop-off data made conversion optimization a no-brainer
-- Numbers create urgency and alignment
-
-**4. Discovery ≠ Execution, But Both Matter**
-- I did thorough discovery (20+ opportunities identified)
-- Only 5 features shipped due to org constraints
-- Both the discovery AND the execution had independent value
-- Don't conflate strategic thinking with implementation outcomes
-
-**5. Document the Gap Honestly**
-- Acknowledging what didn't ship builds more trust than pretending everything was perfect
-- "Here's what we planned, here's what shipped, here's why" is a complete story
-- Product work rarely goes as planned - own that reality
-
 ### What I'd Do Differently
 
 **Earlier Stakeholder Alignment on Scope:**
