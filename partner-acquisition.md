@@ -52,7 +52,7 @@ Through market analysis and data review, Identified critical growth opportunitie
 
 ### Product Vision
 
-I envisioned a **diversified partner acquisition engine** where:
+The vision was a **diversified partner acquisition engine** where:
 
 1. **Multiple channels feed sustainable growth:** Digital marketing, OEM partnerships, and field sales work together
 2. **Attribution drives accountability:** Every marketing dollar tied to partner activation and retention

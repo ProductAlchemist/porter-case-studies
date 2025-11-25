@@ -20,7 +20,7 @@ Porter's partner acquisition landscape was evolving rapidly, creating both oppor
 - **System Limitations:** Tightly coupled architecture preventing rapid iteration
 - **International Blocked:** No app-based onboarding capability for expansion markets
 
-The business was scaling, but the onboarding infrastructure wasn't keeping pace. I was tasked with conducting comprehensive discovery to identify opportunities and create a strategic roadmap.
+The business was scaling, but the onboarding infrastructure wasn't keeping pace. The task was to conduct comprehensive discovery to identify opportunities and create a strategic roadmap.
 
 ---
 
@@ -82,7 +82,7 @@ Through stakeholder interviews, data analysis, and user research, Identified sev
 
 ### Market & Revenue Opportunity
 
-I quantified the addressable opportunity across multiple dimensions:
+We quantified the addressable opportunity across multiple dimensions:
 
 **B2B Acquisition Channel (3PL/Fleet Vendors):**
 - **₹8.5 Cr TAM opportunity** in serving fleet vendor segment

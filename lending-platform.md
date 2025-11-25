@@ -5,7 +5,7 @@
 
 ### Business Challenge
 
-When I took over the lending vertical, Porter had a lending operation running on Excel spreadsheets with 15,000 legacy loans and no proper loan management system. The business faced multiple critical challenges:
+When taking over the lending vertical, Porter had a lending operation running on Excel spreadsheets with 15,000 legacy loans and no proper loan management system. The business faced multiple critical challenges:
 
 - **Operational Chaos:** Loan data scattered across Excel sheets with no single source of truth
 - **Poor Unit Economics:** High CAC (₹625 per loan) and low repayment discipline (73% at 7 DPD) made lending unsustainable
@@ -27,7 +27,7 @@ Our driver-partners faced severe credit access challenges:
 
 ### Constraints & Challenges
 
-I had to navigate significant constraints:
+The team had to navigate significant constraints:
 
 - **Technical Debt:** No LMS existed; Vetted and integrated a third-party Loan Management System 15K legacy loans without disrupting operations
 - **Regulatory Compliance:** CKYC requirements, credit bureau reporting (CIBIL), RBI lending guidelines

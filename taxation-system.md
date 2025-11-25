@@ -83,7 +83,7 @@ The Indian tax landscape for gig platforms is incredibly complex:
 
 ### Product Vision
 
-I envisioned a **rule-based tax engine** that would:
+The vision was a **rule-based tax engine** that would:
 
 1. **Shift from batch to real-time:** Deduct correct taxes at the order level, not month-end
 2. **Codify complexity:** Make cohort logic explicit and configurable, not buried in scripts
