@@ -15,6 +15,18 @@ Each case study follows: Problem → Solution → Impact → Learnings
 
 ---
 
+## 🎯 My Product Approach
+
+✅ **Data-Driven:** Every decision backed by metrics and user behavior analysis
+
+✅ **Impact-Focused:** Obsessed with measurable business outcomes and ROI
+
+✅ **Technical:** Deep understanding of platform architecture and scalability
+
+✅ **Cross-Functional:** Leading engineering, design, and business teams to ship fast
+
+---
+
 ## Case Studies
 
 ### 1. [Lending Platform (0→1)](./lending-platform.md)
